@@ -6,6 +6,4 @@
 
 provider "aws" {
   region     =  "us-east-1"
-  shared_credentials_file = "c:/Users/lenovo/.aws/credentials"
-  profile                 = "default"
-}
+ }
